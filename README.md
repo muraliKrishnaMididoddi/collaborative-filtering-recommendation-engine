@@ -28,3 +28,8 @@ The dataset used in this project is the **MovieLens** dataset, which contains ra
    ```bash
    git clone https://github.com/yourusername/collaborative-filtering-recommendation-engine.git
    cd collaborative-filtering-recommendation-engine
+2.Install the dependencies:
+ ```bash
+   pip install -r requirements.txt
+ ```
+
